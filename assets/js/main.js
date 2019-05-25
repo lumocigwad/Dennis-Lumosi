@@ -1,12 +1,12 @@
 "use strict";
 
 
-jQuery(document).ready(function ($) {
+// jQuery(document).ready(function ($) {
 
-	$(window).load(function () {
-		$(".loaded").fadeOut();
-		$(".preloader").delay(1000).fadeOut("slow");
-	});
+// 	$(window).load(function () {
+// 		$(".loaded").fadeOut();
+// 		$(".preloader").delay(100).fadeOut("slow");
+// 	});
     /*---------------------------------------------*
      * Mobile menu
      ---------------------------------------------*/
