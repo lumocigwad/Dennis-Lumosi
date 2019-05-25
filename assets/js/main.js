@@ -3,10 +3,17 @@
 
 // jQuery(document).ready(function ($) {
 
+<<<<<<< HEAD
 // 	$(window).load(function () {
 // 		$(".loaded").fadeOut();
 // 		$(".preloader").delay(100).fadeOut("slow");
 // 	});
+=======
+	$(window).load(function () {
+		$(".loaded").fadeOut();
+		$(".preloader").delay(0).fadeOut("slow");
+	});
+>>>>>>> 4897d840135e735b539b94a7862214d543a61394
     /*---------------------------------------------*
      * Mobile menu
      ---------------------------------------------*/
